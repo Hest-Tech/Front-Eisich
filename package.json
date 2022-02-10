@@ -5,7 +5,7 @@
   "dependencies": {
     "@babel/cli": "^7.6.4",
     "css-loader": "^3.2.0",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "3.2.0",
